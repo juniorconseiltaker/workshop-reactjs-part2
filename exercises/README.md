@@ -63,7 +63,7 @@ And if you hit `http://localhost:3000/about` it should look like this:
 
 ## Task 4
 
-**Now, you are going to create your first component! Here, we want to define links you can click on to access the two roots previously defined**
+**Now, you are going to create your first component! Here, we want to define links you can click on to access the two routes previously defined**
 
 In the `components` folder:
 
